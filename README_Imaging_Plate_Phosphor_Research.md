@@ -146,12 +146,12 @@ https://doi.org/10.1016/j.nima.2007.05.155
 ---
 
 # 7️⃣ 검색 추천 키워드
-photostimulable phosphor computed radiography
-BaFBr:Eu2+ storage phosphor
-CsBr:Eu imaging plate
-photostimulated luminescence mechanism
-computed radiography MTF DQE
-X-ray storage phosphor trap depth
+   * photostimulable phosphor computed radiography
+   * BaFBr:Eu2+ storage phosphor
+   * CsBr:Eu imaging plate
+   * photostimulated luminescence mechanism
+   * computed radiography MTF DQE
+   * X-ray storage phosphor trap depth
 
 
 ---
